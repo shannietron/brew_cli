@@ -1,0 +1,6 @@
+[package]
+name = "brew_cli"
+version = "0.1.0"
+authors = ["Shanmugam <git@shan.mp>"]
+
+[dependencies]
